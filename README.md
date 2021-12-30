@@ -1,4 +1,4 @@
-# quantumespresso_supprot
+# QuantumEspresso_supprot
 support tools for quantum espresso  
 code to visualize the output of the quantum espresso  
 1.band structure  
